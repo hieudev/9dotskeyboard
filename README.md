@@ -25,3 +25,5 @@ Accepted codes:
 
 
 Edit your codex and colaborate!
+
+More -> https://medium.com/@hieude/keyboard-paradigm-69fcba592312
