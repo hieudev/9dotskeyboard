@@ -21,7 +21,7 @@ Accepted codes:
 
 -Decimal Notation DC_... https://www.sciencebuddies.org/science-fair-projects/references/ascii-table
 
--Reserved internal IME functions D_... RC_... (can be customized or ask for further funks)
+-Reserved internal IME functions D_... or RC_... (can be customized or ask devs for further funks)
 
 
 Edit your codex and colaborate!
