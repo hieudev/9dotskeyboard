@@ -9,9 +9,15 @@ Files should be .txt and contain 2 columns separated by single space. First one 
 
 See standard.txt for reference.
 
+
+
 Accepted codes:
+
 Strings 
-Unicodes 
+
+Unicodes https://home.unicode.org/
+
+
 Android Keycodes KC_...
 Decimal Notation D
 
