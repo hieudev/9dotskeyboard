@@ -1,6 +1,8 @@
 # 9dotskeyboard
 All shared codex dicts for 9dk and tourist guides
 
+https://youtu.be/oKygpe8luNU?si=uJ6U-YdtV6WZamCH
+
 Shared dictionaries for "9 dots keyboard" at Google Play
 
 https://play.google.com/store/apps/details?id=com.hieudev.dotskeyboard
