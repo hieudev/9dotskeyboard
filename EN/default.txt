@@ -278,4 +278,3 @@ ok 586
 nop 68596
 thank you 14756
 long live the dotsking 3257
-hieudev@gmail.com 1475869
