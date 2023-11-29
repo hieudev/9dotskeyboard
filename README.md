@@ -1,9 +1,6 @@
-# 9dotskeyboard
-All shared codex dicts for 9dk and tourist guides
+# 9dotskeyboard # 9 dots keyboard # 9dk
 
-https://youtu.be/oKygpe8luNU?si=uJ6U-YdtV6WZamCH
-
-Shared dictionaries for "9 dots keyboard" at Google Play
+This repository collects shared dictionaries for "9 dots keyboard" at Google Play
 
 https://play.google.com/store/apps/details?id=com.hieudev.dotskeyboard
 
@@ -15,17 +12,20 @@ See standard.txt for reference.
 
 Accepted codes:
 
--Strings ... (whatever included spaces but with no reserved prefixes)
+-Strings ... (whatever, included spaces but with non reserved prefixes below)
 
 -Unicodes U+... https://home.unicode.org/
 
--Android Keycodes KC_...  or KC...+KC... https://developer.android.com/reference/android/view/KeyEvent
+-Android Keycodes and combination KC_...  or KC...+KC... https://developer.android.com/reference/android/view/KeyEvent
 
 -Decimal Notation DC_... https://www.sciencebuddies.org/science-fair-projects/references/ascii-table
 
--Reserved internal IME functions D_... or RC_... (can be customized or ask devs for further funks)
+-Reserved internal IME functions D_... or RC_... (you can try to ask devs for further funks)
 
 
-Edit your codex and colaborate!
+
+Edit your codex and colaborate now, go, go, go!
+
+Protip: Start with most used keys
 
 More -> https://medium.com/@hieude/keyboard-paradigm-69fcba592312
