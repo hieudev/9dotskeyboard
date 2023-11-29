@@ -13,11 +13,11 @@ See standard.txt for reference.
 
 Accepted codes:
 
-Strings 
+-Strings 
 
-Unicodes https://home.unicode.org/
+-Unicodes https://home.unicode.org/
 
+-Android Keycodes KC_... https://developer.android.com/reference/android/view/KeyEvent
 
-Android Keycodes KC_...
-Decimal Notation D
+-Decimal Notation D
 
