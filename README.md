@@ -5,7 +5,7 @@ Shared dictionaries for "9 dots keyboard" at Google Play
 
 https://play.google.com/store/apps/details?id=com.hieudev.dotskeyboard
 
-Files should be .txt and contain 2 columns separated by single space. First one for keycodes or strings and the second for dots-codes.
+Files should be .txt and contain 2 columns separated by a single space. First one for keycodes or strings and the second for dots-codes.
 
 See standard.txt for reference.
 
@@ -13,7 +13,7 @@ See standard.txt for reference.
 
 Accepted codes:
 
--Strings ... (whatever with no reserved prefixes)
+-Strings ... (whatever included spaces but with no reserved prefixes)
 
 -Unicodes U+... https://home.unicode.org/
 
@@ -21,7 +21,7 @@ Accepted codes:
 
 -Decimal Notation DC_... https://www.sciencebuddies.org/science-fair-projects/references/ascii-table
 
--Reserved internal IME functions
+-Reserved internal IME functions D_... RC_... (can be customized or ask for further funks)
 
 
-Edit yours and colaborate!
+Edit your codex and colaborate!
